@@ -6,4 +6,4 @@ Authors: Pragya Agarwal, Mehar Kapoor, Nisha Rani, Palak Kumari
 <br>
 <font colour="Red">
 This repository consists of code from Qbits regarding IITD Hackathon
-<a href="WScube/index.html">Click here to view File</a>
+<a href=WScube/lms.wscubetech.com/index.html>Click here to view File</a>
